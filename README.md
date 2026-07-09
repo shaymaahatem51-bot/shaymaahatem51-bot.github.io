@@ -7,7 +7,6 @@ I am passionate about food safety, and continuous improvement. My goal is to hel
 
 ### Areas of Interest
 - 🍽️ Food Safety
-- ✅ Quality Assurance
 - 📋 HACCP
 - 🏭 GMP & GHP
 - 📑 FSSC 22000
