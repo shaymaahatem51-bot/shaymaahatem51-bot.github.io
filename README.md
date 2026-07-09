@@ -1,4 +1,4 @@
-# shaymaah.github.io
+# github.io
 # Hi, I'm Shaymaa Hatem 👋
 
 ## Food Safety Officer
